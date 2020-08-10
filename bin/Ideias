@@ -1,0 +1,17 @@
+Ideias
+
+Animação da subida de escada
+Atirar nos inimidos
+	cima-dir, cima-esq, baixo-dir, baixo-esq, esquerda, direita
+	colisão dos tiros na parede
+		marcação de tiro
+		
+Sprites tocha
+	movimentação da tocha
+	iluminação da tocha
+
+Sprites cachoeira
+	Sprite personagem na cachoeira
+
+sprite rio
+	Sprite personagem no rio
